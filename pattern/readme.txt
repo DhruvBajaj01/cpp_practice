@@ -1,1 +1,2 @@
-*** Programs for printing pyramid patterns in C++ ***
+# Programs for printing pyramid patterns in C++
+
